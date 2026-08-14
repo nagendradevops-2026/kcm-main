@@ -191,7 +191,7 @@
 		
 		    <executions>
 		        <execution>
-		            <id>cargo-deploy</id>
+		            <id>cargo</id>
 		            <phase>deploy</phase>
 		            <goals>
 		                <goal>deploy</goal>
