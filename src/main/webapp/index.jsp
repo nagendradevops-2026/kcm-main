@@ -83,7 +83,7 @@
     <!-- Hero Banner -->
     <div class="hero">
         <h1>Featured Movie</h1>
-        <p>Watch the latest trending shows and movies right now. Stream anywhere, cancel anytime.</p>
+        <p>Watch the latest trending shows and movies right now. Stream anywhere, cancel anytime and enjoy.</p>
         <button class="btn">Play</button>
     </div>
 
