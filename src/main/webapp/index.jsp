@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hotstar</title>
+    <title>Hotstar Clone</title>
     <style>
         body {
             background-color: #141414;
@@ -89,7 +89,7 @@
 
     <!-- Movie Rows -->
     <div class="row">
-        <h2>Trending here</h2>
+        <h2>Trending Videos</h2>
         <div class="poster-container">
             <div class="card" style="background-image: url('img1.jpg');"></div>
             <div class="card" style="background-image: url('img2.jpg');"></div>
