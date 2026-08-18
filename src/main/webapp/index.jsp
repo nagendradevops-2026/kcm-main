@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Netflix Clone</title>
+    <title>Hotstar</title>
     <style>
         body {
             background-color: #141414;
@@ -83,13 +83,13 @@
     <!-- Hero Banner -->
     <div class="hero">
         <h1>Featured Movie</h1>
-        <p>Watch the latest trending shows and movies right now. Stream anywhere, cancel anytime and enjoy.</p>
+        <p>Watch the latest trending shows and movies right now.</p>
         <button class="btn">Play</button>
     </div>
 
     <!-- Movie Rows -->
     <div class="row">
-        <h2>Trending Now</h2>
+        <h2>Trending here</h2>
         <div class="poster-container">
             <div class="card" style="background-image: url('img1.jpg');"></div>
             <div class="card" style="background-image: url('img2.jpg');"></div>
